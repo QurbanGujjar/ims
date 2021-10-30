@@ -1,0 +1,22 @@
+
+	XYZ Inventory
+phone No.04211223344
+LHR-54401
+=========================
+Name:Qurban
+Cell No:0347474737
+Bill No.205322
+Date:17/08/21
+=========================
+Product Name Qty Price
+==================
+         
+Monomehypo 	1	 RS.750.0
+Sun Star 	3	 RS.2550.0
+=========================
+Bill Amount RS.3300.0
+Discount RS.165.0
+Net pay RS.3135.0        
+=========================
+        
+        

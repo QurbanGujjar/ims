@@ -1,0 +1,19 @@
+	XYZ Inventory
+phone No.04211223344
+	LHR-54401
+=================================
+Name:   DWP
+Cell No:BC
+Bill No.254373
+Date:   20/08/21
+=================================
+Product Name Qty Price
+=================================
+         
+Sun Star      2   RS.1700.0
+Baber Sheir   5   RS.9000.0
+=================================
+Bill Amount RS.10700.0
+Discount    RS.535.0
+Net pay     RS.10165.0        
+=================================
