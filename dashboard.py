@@ -2,7 +2,7 @@ from Reporting import ReportingClass
 from supplier import supplierClass
 from tkinter import*
 from tkinter import messagebox
-from PIL import Image,ImageTk# pip install pillow
+# from PIL import Image,ImageTk# pip install pillow
 import sqlite3
 import time
 import os
